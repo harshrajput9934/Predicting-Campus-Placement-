@@ -1,4 +1,7 @@
 # Predicting-Campus-Placement
+![1580991993php28LHft](https://github.com/harshrajput9934/Predicting-Campus-Placement-/assets/90636720/a741c470-3c12-44ca-ab9e-c9efe66163e1)
+
+
 ## <br>**➲ Project description**
 This model predicts the placement status of the student based on his/her percentage, stream, specialisation, work experience and many more factors.The model is trained on a very small dataset, works on the logistic regression algorithm, and establishes an accuracy score of around 83%.
 
