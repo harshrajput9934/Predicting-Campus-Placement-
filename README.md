@@ -16,5 +16,12 @@ The Dataset file is about campus recuritment data in which there are 216 entries
 - Data analysis
 - Create Model
 - Evaluate Model
+- Predictions
+
 
 <br>
+
+## <br>**➲ RESULTS**
+![Screenshot 2023-07-04 223931](https://github.com/harshrajput9934/Predicting-Campus-Placement-/assets/90636720/28b0ff48-7ebf-4e02-b426-e59d8d9fa570)![Screenshot 2023-07-04 224006](https://github.com/harshrajput9934/Predicting-Campus-Placement-/assets/90636720/13485602-3737-4fa6-8fe0-88ab9d64ed59)
+
+
