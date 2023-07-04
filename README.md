@@ -21,7 +21,6 @@ The Dataset file is about campus recuritment data in which there are 216 entries
 - Evaluate Model
 - Predictions
 
-
 <br>
 
 ## <br>**➲ RESULTS**
